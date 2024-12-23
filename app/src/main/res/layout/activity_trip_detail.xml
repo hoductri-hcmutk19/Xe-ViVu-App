@@ -104,7 +104,7 @@
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_marginVertical="@dimen/_21sdp"
+                    android:layout_marginVertical="@dimen/_14sdp"
                     android:layout_marginStart="@dimen/_10sdp"
                     android:layout_marginEnd="@dimen/_15sdp"
                     android:orientation="vertical">

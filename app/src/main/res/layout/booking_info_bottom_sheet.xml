@@ -47,7 +47,7 @@
                 android:orientation="vertical"
                 android:layout_marginStart="@dimen/_10sdp"
                 android:layout_marginEnd="@dimen/_20sdp"
-                android:layout_marginVertical="@dimen/_20sdp">
+                android:layout_marginVertical="@dimen/_14sdp">
 
                 <TextView
                     android:id="@+id/tvOriginAddress"

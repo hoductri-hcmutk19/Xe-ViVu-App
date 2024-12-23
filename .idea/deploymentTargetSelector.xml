@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2024-12-16T05:14:30.364501Z">
+        <DropdownSelection timestamp="2024-12-19T06:45:30.846993Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=/Users/ho.duc.tri/.android/avd/Pixel_6_Pro_API_31.avd" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=/Users/ho.duc.tri/.android/avd/Pixel_7_Pro_API_31.avd" />
             </handle>
           </Target>
         </DropdownSelection>
@@ -15,7 +15,7 @@
       </SelectionState>
       <SelectionState runConfigName="Xe Vivu App.Xe_Vivu_App.app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2024-11-18T18:52:57.171182Z">
+        <DropdownSelection timestamp="2024-12-23T03:14:50.032466Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="PhysicalDevice" identifier="serial=OJKJJNE64LOZ6HPN" />
