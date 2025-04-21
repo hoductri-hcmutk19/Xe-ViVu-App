@@ -1,7 +1,7 @@
 # Xe-Vivu-App
 
 ## Thông tin chung
-Phát triển một hệ thống ứng dụng phục vụ cho việc đặt xe. Bao gồm 2 ứng dụng là:
+Phát triển một hệ thống ứng dụng phục vụ cho việc đặt xe. Ngoài các yêu cầu tính năng và yêu cầu phi tính năng đặc biệt được trình bày chi tiết trong báo cáo thì hệ thống ứng dụng Có đầy đủ các tính năng cần có của một ứng dụng đặt xe (Tương tự Uber). Bao gồm 2 ứng dụng là:
 + Xe-Vivu: Ứng dụng dành cho hành khách
 + Xe-Partner: Ứng dụng dành cho tài xế và người cho mướn xe dịch vụ
 
@@ -23,8 +23,32 @@ Hai môn học liên quan tới hệ thống ứng dụng này là:
 
 ## Video Demo một số tính năng chính của hệ thống ứng dụng
 Các điểm toạ độ được sử dụng trong quá trình Demo
-<img src="https://github.com/user-attachments/assets/4a87cbf3-7778-416e-ad0f-497530f77f11" height="500">
-![0  Các điểm toạ độ Demo](https://github.com/user-attachments/assets/4a87cbf3-7778-416e-ad0f-497530f77f11)
 
-### tính năng 1
-aaa
+<img src="https://github.com/user-attachments/assets/4a87cbf3-7778-416e-ad0f-497530f77f11" height="360">
+
+### Đăng nhập, Tạo tài khoản - XePartner
+
+https://drive.google.com/file/d/1qbVEhrBL5dgHkzbrMSTecUTqBICMdELE/view?usp=sharing
+
+### Booking Feature (Car choose)
+
+https://drive.google.com/file/d/1R2077T2Iljt-JjZkxetdD-dMmzqhGf7T/view?usp=sharing
+
+### Booking Feature (Driver refuse)
+
+https://drive.google.com/file/d/1JPEtkCdfVPvqPuW81FW9qCLL6IHVqSlx/view?usp=sharing
+
+### Booking Feature (Main feature Full flow)
+
+https://drive.google.com/file/d/1bTqE7rwjskLCNN8CCnPjN-Ww2ETC_qeI/view?usp=sharing
+
+### Side Menu - XePartner
+
+https://drive.google.com/file/d/1XvcV2MQj_XebAWGBJdvJiyKAFrnT5Jg2/view?usp=sharing
+
+### Side Menu - XeVivu
+
+https://drive.google.com/file/d/18zbpI-3p4M3csYGB95djg9ggYsVLAUNy/view?usp=sharing
+
+
+
