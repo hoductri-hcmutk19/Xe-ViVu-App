@@ -7,6 +7,8 @@ Phát triển một hệ thống ứng dụng phục vụ cho việc đặt xe. 
 
   -- Ứng dụng trong repo này là ứng dụng dành cho phía **người dùng hành khách**.
 
+  -- Ứng dụng Xe-Partner nằm ở đây: https://github.com/hoductri-hcmutk19/Xe-Partner-App
+
 ## Chi tiết
 Toàn bộ quá trình thiết kế và hiện thực đồ án này được trình bày chi tiết và đầy đủ trong báo cáo ở link sau:
 https://drive.google.com/file/d/1yuMLSZFlHpGa0zilIGmzj9XBieHPUy2l/view?usp=sharing
@@ -61,5 +63,4 @@ https://drive.google.com/file/d/18zbpI-3p4M3csYGB95djg9ggYsVLAUNy/view?usp=shari
 ### Side Menu - XePartner
 
 https://drive.google.com/file/d/1XvcV2MQj_XebAWGBJdvJiyKAFrnT5Jg2/view?usp=sharing
-
 
